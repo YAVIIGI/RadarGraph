@@ -1,0 +1,8 @@
+{
+    "name": "jp.ya7gi.radargraph",
+    "author": "YA7GI",
+    "version": "1.0.0",
+    "displayName": "RadarGraph",
+    "description": "RadarGraph for Unity",
+    "unity": "2021.3"
+}
